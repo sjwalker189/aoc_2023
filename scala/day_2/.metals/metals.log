@@ -1,0 +1,11 @@
+2024.09.04 21:53:00 INFO  Started: Metals version 1.3.5 in folders '/Users/sam/dev/aoc_2023/scala/day_2' for client Neovim 0.11.0-dev+g4e8efe002.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@46bd69d8]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@24941ee4]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@46bd69d8]
+2024.09.04 21:53:00 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.09.04 21:53:00 INFO  no build target found for /Users/sam/dev/aoc_2023/scala/day_2/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.09.04 21:53:06 INFO  no build target found for /Users/sam/dev/aoc_2023/scala/day_2/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.09.04 21:53:37 INFO  Shutting down server[0m
+2024.09.04 21:53:37 INFO  shutting down Metals[0m

@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/sam/dev/aoc_2023/scala/day_2/target/scala-3.4.2/day_2_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sam/dev/aoc_2023/scala/day_2/target/scala-3.4.2/classes/Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sam/dev/aoc_2023/scala/day_2/target/scala-3.4.2/classes/Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sam/dev/aoc_2023/scala/day_2/target/scala-3.4.2/classes/main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sam/dev/aoc_2023/scala/day_2/target/scala-3.4.2/classes/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sam/dev/aoc_2023/scala/day_2/target/scala-3.4.2/classes/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

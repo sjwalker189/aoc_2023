@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZV7mK4s4ZM=",
+  "success": true,
+  "projectFilePath": "/Users/sam/dev/aoc_2023/dotnet/dotnet.csproj",
+  "expectedPackageFiles": [
+    "/Users/sam/.nuget/packages/nunit/4.2.1/nunit.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

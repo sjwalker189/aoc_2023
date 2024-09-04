@@ -1,0 +1,14 @@
+/Users/sam/dev/aoc_2023/dotnet/bin/Debug/net8.0/dotnet
+/Users/sam/dev/aoc_2023/dotnet/bin/Debug/net8.0/dotnet.deps.json
+/Users/sam/dev/aoc_2023/dotnet/bin/Debug/net8.0/dotnet.runtimeconfig.json
+/Users/sam/dev/aoc_2023/dotnet/bin/Debug/net8.0/dotnet.dll
+/Users/sam/dev/aoc_2023/dotnet/bin/Debug/net8.0/dotnet.pdb
+/Users/sam/dev/aoc_2023/dotnet/obj/Debug/net8.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/dev/aoc_2023/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfoInputs.cache
+/Users/sam/dev/aoc_2023/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfo.cs
+/Users/sam/dev/aoc_2023/dotnet/obj/Debug/net8.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/sam/dev/aoc_2023/dotnet/obj/Debug/net8.0/dotnet.dll
+/Users/sam/dev/aoc_2023/dotnet/obj/Debug/net8.0/refint/dotnet.dll
+/Users/sam/dev/aoc_2023/dotnet/obj/Debug/net8.0/dotnet.pdb
+/Users/sam/dev/aoc_2023/dotnet/obj/Debug/net8.0/dotnet.genruntimeconfig.cache
+/Users/sam/dev/aoc_2023/dotnet/obj/Debug/net8.0/ref/dotnet.dll
